@@ -1,0 +1,16 @@
+分词：tokenizer
+预训练：pre-trained
+模型架构
+整体结构
+位置编码
+激活层
+归一化
+预训练任务
+MLM
+NSP
+微调：fine-tuning
+P-tuning
+LoRA
+评估
+中文
+英文
